@@ -2,7 +2,7 @@ Aprendendo sobre GIT
 
 $git init → Inicializa
 
-$git add nome_do_arquivo → Adiciona um arquivo p/ ser direcionado
+$git add nome_do_arquivo → Adiciona um arquivo p/ ser direcionado (nesse caso foi o Readme.md)
 
 $git add -all ou $git add . → Ele adiciona todos os arquivos que estiver naquele commit aguardando para dar push.
 

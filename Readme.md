@@ -17,6 +17,7 @@ $git remote add origin <link> → Diz o local para onde o diretório do seu arqu
 $git remote set-url origin + <link> → erro pode acontecer devido a  caracteres especiais
 
 $git push -u nome_projeto main → Ele joga o commit para o repositório do GitHub.
+$git push origin main → Ele joga os próximos commits para o repositório do GitHub.
 
 $git checkout -b "nome-da-branch" → Cria mais uma branch.
 
